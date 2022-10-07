@@ -1,0 +1,22 @@
+.logo{
+    display:inline-block;
+    width:30%;
+    text-align: center;
+    margin: 0;
+}
+
+div a{
+    width:100%;
+}
+
+.container{
+    text-align:center;
+}
+
+body{
+    color: blue;
+}
+
+h1{
+    text-align: center;
+}
